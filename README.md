@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Projects finished so far
 
 You can use the [editor on GitHub](https://github.com/ShaziaZahid/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
