@@ -1,9 +1,13 @@
-## Projects finished
+## Projects
 
 
 
-
-
+### Exploring and Communicating the findings for Loan Data from Prosper
+  1. [Overview](https://github.com/ShaziaZahid/part5_DAND/blob/master/overview.pdf)
+  2. [Exploration of Prosper Loan Data](https://github.com/ShaziaZahid/part5_DAND/blob/master/exploration.ipynb)
+  3. [Effects of different features on Loan Status in Prosper Loan Data](https://github.com/ShaziaZahid/part5_DAND/blob/master/explanation.ipynb)
+  4. [Readme](https://github.com/ShaziaZahid/part5_DAND/blob/master/readme.md)
+  5. [Review](https://github.com/ShaziaZahid/part5_DAND/blob/master/review.pdf)
 
 ### Wrangling and Analyzing Twitter user @dog_rates, also known as WeRateDogs
   1. [Overview](https://github.com/ShaziaZahid/part4_DAND/blob/master/overview.pdf)
