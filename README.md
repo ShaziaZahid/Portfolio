@@ -3,7 +3,9 @@
 ### Investigating The Movies Data base (TMDb)
   1. [Overview](https://github.com/ShaziaZahid/part2_DAND/blob/master/overview.pdf)
   2. [Detailed Rquirments](https://github.com/ShaziaZahid/part2_DAND/blob/master/detail.pdf)
-  3. 
+  3. [Solution in HTML format](https://github.com/ShaziaZahid/part2_DAND/blob/master/re-submit.html)
+  4. [Solution in Jupyter Notebook](https://github.com/ShaziaZahid/part2_DAND/blob/master/re-submit.ipynb)
+  5. [Review by Udacity](https://github.com/ShaziaZahid/part2_DAND/blob/master/review.pdf)
 
 
 
