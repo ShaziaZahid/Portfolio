@@ -1,10 +1,17 @@
 ## Projects finished
 
+### Investigating The Movies Data base (TMDb)
+  1. [Overview](https://github.com/ShaziaZahid/part2_DAND/blob/master/overview.pdf)
+  2. [Detailed Rquirments](https://github.com/ShaziaZahid/part2_DAND/blob/master/detail.pdf)
+  3. 
+
+
 
 ### Exploring Weather Trends
-  1. [Project Description and Requirments](https://github.com/ShaziaZahid/part1_DAND/blob/master/Explore%20Weather%20Trends%20-%20Udacity.pdf)
-  2. [Solution pdf](https://github.com/ShaziaZahid/part1_DAND/blob/master/Project-1.pdf)
-  3. [Project Review](https://github.com/ShaziaZahid/part1_DAND/blob/master/Udacity%20Reviews.pdf)
+
+    1. [Project Description and Requirments](https://github.com/ShaziaZahid/part1_DAND/blob/master/Explore%20Weather%20Trends%20-%20Udacity.pdf)
+    2. [Solution pdf](https://github.com/ShaziaZahid/part1_DAND/blob/master/Project-1.pdf)
+    3. [Project Review](https://github.com/ShaziaZahid/part1_DAND/blob/master/Udacity%20Reviews.pdf)
   
   
 You can use the [editor on GitHub](https://github.com/ShaziaZahid/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
