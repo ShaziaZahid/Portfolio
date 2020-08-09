@@ -12,11 +12,11 @@
   5. [Review](https://github.com/ShaziaZahid/part5_DAND/blob/master/review.pdf)
 
 ### Wrangling and Analyzing Twitter user @dog_rates, also known as WeRateDogs
-      pandas, numpy, seaborn, matplotlib
+      pandas, numpy, json, requests, seaborn, matplotlib
       
   1. [Overview](https://github.com/ShaziaZahid/part4_DAND/blob/master/overview.pdf)
   2. [Details of Project](https://github.com/ShaziaZahid/part4_DAND/blob/master/detail.pdf)
-  3. [Wrangle and Analyze Data](https://github.com/ShaziaZahid/part4_DAND/blob/master/wrangle_act.ipynb)
+  3. [Wrangling and Analyzing Data](https://github.com/ShaziaZahid/part4_DAND/blob/master/wrangle_act.ipynb)
   4. [Data Wrangling Report](https://github.com/ShaziaZahid/part4_DAND/blob/master/wrangle_report.ipynb)
   5. [Insights and Visualizations](https://github.com/ShaziaZahid/part4_DAND/blob/master/act_report.ipynb)
   6. [Review by Udacity](https://github.com/ShaziaZahid/part4_DAND/blob/master/review.pdf)
