@@ -3,7 +3,7 @@
 
 
 ### Exploring and Communicating the findings for Loan Data from Prosper
-      Pandas, Numpy, Seaborn, Matplotlib
+      pandas, numpy, seaborn, matplotlib
       
   1. [Overview](https://github.com/ShaziaZahid/part5_DAND/blob/master/overview.pdf)
   2. [Exploration of Prosper Loan Data](https://github.com/ShaziaZahid/part5_DAND/blob/master/exploration.ipynb)
@@ -12,7 +12,7 @@
   5. [Review](https://github.com/ShaziaZahid/part5_DAND/blob/master/review.pdf)
 
 ### Wrangling and Analyzing Twitter user @dog_rates, also known as WeRateDogs
-      Pandas, Numpy, Seaborn, Matplotlib
+      pandas, numpy, seaborn, matplotlib
       
   1. [Overview](https://github.com/ShaziaZahid/part4_DAND/blob/master/overview.pdf)
   2. [Details of Project](https://github.com/ShaziaZahid/part4_DAND/blob/master/detail.pdf)
@@ -22,14 +22,14 @@
   6. [Review by Udacity](https://github.com/ShaziaZahid/part4_DAND/blob/master/review.pdf)
 
 ### Analyzing A/B Test Results
-      Pandas, Numpy, Seaborn, Matplotlib, statsmodels.api
+      pandas, numpy, seaborn, matplotlib, statsmodels.api
       
   1. [Overview](https://github.com/ShaziaZahid/part3_DAND/blob/master/overview.pdf)
   2. [Solution Jupyter Notebook](https://github.com/ShaziaZahid/part3_DAND/blob/master/solution.ipynb)
   3. [Review by Udacity](https://github.com/ShaziaZahid/part3_DAND/blob/master/review.pdf)
 
 ### Investigating The Movies Data base (TMDb)
-      Pandas, Numpy, Seaborn, Matplotlib
+      pandas, numpy, seaborn, matplotlib
       
   1. [Overview](https://github.com/ShaziaZahid/part2_DAND/blob/master/overview.pdf)
   2. [Detailed Requirments](https://github.com/ShaziaZahid/part2_DAND/blob/master/detail.pdf)
