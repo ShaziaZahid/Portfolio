@@ -22,7 +22,7 @@
   6. [Review by Udacity](https://github.com/ShaziaZahid/part4_DAND/blob/master/review.pdf)
 
 ### Analyzing A/B Test Results
-      Pandas, Numpy, Seaborn, Matplotlib
+      Pandas, Numpy, Seaborn, Matplotlib, statsmodels.api
       
   1. [Overview](https://github.com/ShaziaZahid/part3_DAND/blob/master/overview.pdf)
   2. [Solution Jupyter Notebook](https://github.com/ShaziaZahid/part3_DAND/blob/master/solution.ipynb)
